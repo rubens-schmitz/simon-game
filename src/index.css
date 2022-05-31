@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "helvetica";
+  -webkit-font-smoothing: antialiased;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
