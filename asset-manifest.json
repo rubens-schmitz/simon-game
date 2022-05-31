@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simon-game/static/css/main.c2a662d1.css",
+    "main.js": "/simon-game/static/js/main.88365064.js",
+    "static/js/787.774bf5fd.chunk.js": "/simon-game/static/js/787.774bf5fd.chunk.js",
+    "service-worker.js": "/simon-game/service-worker.js",
+    "static/media/bottom-left.mp3": "/simon-game/static/media/bottom-left.6629d1596d34b8932b62.mp3",
+    "static/media/bottom-right.mp3": "/simon-game/static/media/bottom-right.c46b9b8f85eb0f51a69b.mp3",
+    "static/media/top-left.mp3": "/simon-game/static/media/top-left.24c67b31d6a91591b30e.mp3",
+    "static/media/top-right.mp3": "/simon-game/static/media/top-right.38b1fd45a1475848fb9b.mp3",
+    "index.html": "/simon-game/index.html",
+    "main.c2a662d1.css.map": "/simon-game/static/css/main.c2a662d1.css.map",
+    "main.88365064.js.map": "/simon-game/static/js/main.88365064.js.map",
+    "787.774bf5fd.chunk.js.map": "/simon-game/static/js/787.774bf5fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a662d1.css",
+    "static/js/main.88365064.js"
+  ]
+}
